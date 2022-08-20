@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Backups\\7-10-22\\admin\\source\\repos\\RustBuddy\\RustBuddy.Discord\\RustBuddy.Discord.csproj": {}
+  },
+  "projects": {
+    "D:\\Backups\\7-10-22\\admin\\source\\repos\\RustBuddy\\RustBuddy.API\\RustBuddy.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Backups\\7-10-22\\admin\\source\\repos\\RustBuddy\\RustBuddy.API\\RustBuddy.API.csproj",
+        "projectName": "RustBuddy.API",
+        "projectPath": "D:\\Backups\\7-10-22\\admin\\source\\repos\\RustBuddy\\RustBuddy.API\\RustBuddy.API.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Backups\\7-10-22\\admin\\source\\repos\\RustBuddy\\RustBuddy.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.21.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "WebSocketSharp": {
+              "target": "Package",
+              "version": "[1.0.3-rc11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Backups\\7-10-22\\admin\\source\\repos\\RustBuddy\\RustBuddy.Database\\RustBuddy.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Backups\\7-10-22\\admin\\source\\repos\\RustBuddy\\RustBuddy.Database\\RustBuddy.Database.csproj",
+        "projectName": "RustBuddy.Database",
+        "projectPath": "D:\\Backups\\7-10-22\\admin\\source\\repos\\RustBuddy\\RustBuddy.Database\\RustBuddy.Database.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Backups\\7-10-22\\admin\\source\\repos\\RustBuddy\\RustBuddy.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.28, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Backups\\7-10-22\\admin\\source\\repos\\RustBuddy\\RustBuddy.Discord\\RustBuddy.Discord.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Backups\\7-10-22\\admin\\source\\repos\\RustBuddy\\RustBuddy.Discord\\RustBuddy.Discord.csproj",
+        "projectName": "RustBuddy.Discord",
+        "projectPath": "D:\\Backups\\7-10-22\\admin\\source\\repos\\RustBuddy\\RustBuddy.Discord\\RustBuddy.Discord.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Backups\\7-10-22\\admin\\source\\repos\\RustBuddy\\RustBuddy.Discord\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Backups\\7-10-22\\admin\\source\\repos\\RustBuddy\\RustBuddy.API\\RustBuddy.API.csproj": {
+                "projectPath": "D:\\Backups\\7-10-22\\admin\\source\\repos\\RustBuddy\\RustBuddy.API\\RustBuddy.API.csproj"
+              },
+              "D:\\Backups\\7-10-22\\admin\\source\\repos\\RustBuddy\\RustBuddy.Database\\RustBuddy.Database.csproj": {
+                "projectPath": "D:\\Backups\\7-10-22\\admin\\source\\repos\\RustBuddy\\RustBuddy.Database\\RustBuddy.Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DSharpPlus": {
+              "target": "Package",
+              "version": "[4.3.0-nightly-01169, )"
+            },
+            "DSharpPlus.SlashCommands": {
+              "target": "Package",
+              "version": "[4.3.0-nightly-01169, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

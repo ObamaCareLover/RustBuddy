@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.API\bin\Debug\net6.0\RustBuddy.API.deps.json
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.API\bin\Debug\net6.0\RustBuddy.API.dll
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.API\bin\Debug\net6.0\RustBuddy.API.pdb
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.API\obj\Debug\net6.0\RustBuddy.API.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.API\obj\Debug\net6.0\RustBuddy.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.API\obj\Debug\net6.0\RustBuddy.API.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.API\obj\Debug\net6.0\RustBuddy.API.AssemblyInfo.cs
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.API\obj\Debug\net6.0\RustBuddy.API.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.API\obj\Debug\net6.0\RustBuddy.API.dll
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.API\obj\Debug\net6.0\refint\RustBuddy.API.dll
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.API\obj\Debug\net6.0\RustBuddy.API.pdb
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.API\obj\Debug\net6.0\ref\RustBuddy.API.dll

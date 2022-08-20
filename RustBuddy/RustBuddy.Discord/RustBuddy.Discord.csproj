@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DSharpPlus" Version="4.3.0-nightly-01169" />
+    <PackageReference Include="DSharpPlus.SlashCommands" Version="4.3.0-nightly-01169" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RustBuddy.API\RustBuddy.API.csproj" />
+    <ProjectReference Include="..\RustBuddy.Database\RustBuddy.Database.csproj" />
+  </ItemGroup>
+
+</Project>

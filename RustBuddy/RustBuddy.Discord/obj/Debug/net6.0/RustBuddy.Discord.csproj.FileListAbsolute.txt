@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.Discord\bin\Debug\net6.0\RustBuddy.Discord.deps.json
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.Discord\bin\Debug\net6.0\RustBuddy.Discord.dll
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.Discord\bin\Debug\net6.0\RustBuddy.Discord.pdb
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.Discord\bin\Debug\net6.0\RustBuddy.API.dll
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.Discord\bin\Debug\net6.0\RustBuddy.Database.dll
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.Discord\bin\Debug\net6.0\RustBuddy.API.pdb
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.Discord\bin\Debug\net6.0\RustBuddy.Database.pdb
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.Discord\obj\Debug\net6.0\RustBuddy.Discord.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.Discord\obj\Debug\net6.0\RustBuddy.Discord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.Discord\obj\Debug\net6.0\RustBuddy.Discord.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.Discord\obj\Debug\net6.0\RustBuddy.Discord.AssemblyInfo.cs
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.Discord\obj\Debug\net6.0\RustBuddy.Discord.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.Discord\obj\Debug\net6.0\RustBuddy.Discord.csproj.CopyComplete
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.Discord\obj\Debug\net6.0\RustBuddy.Discord.dll
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.Discord\obj\Debug\net6.0\refint\RustBuddy.Discord.dll
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.Discord\obj\Debug\net6.0\RustBuddy.Discord.pdb
+C:\Users\admin\source\repos\RustBuddy\RustBuddy.Discord\obj\Debug\net6.0\ref\RustBuddy.Discord.dll
